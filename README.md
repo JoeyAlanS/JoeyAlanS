@@ -1,6 +1,6 @@
-# Joey here
-### - Busco sempre aprender
-### - Aberto a novos aprendizados sempre
+# Hello! I´m Joey
+### - I always seek to learn
+### - Always open to new learning
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Yoaikun&show_icons=true&theme=draculaby&include_all_commits=true&count_private=true"/>
@@ -19,7 +19,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Social media</h1>
     <a href = "mailto: joeyalan50@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
