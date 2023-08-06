@@ -23,7 +23,7 @@
     <a href = "mailto: joeyalan50@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/joey-kun-932111272/">
+    <a href = "https://www.linkedin.com/in/joey-alan-solis">
       <img width="25" src="linkedin.svg">
     </a>
     <a href = "https://www.youtube.com/@joey-kun-6220/videos">
