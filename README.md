@@ -1,6 +1,7 @@
 # Hello! I'm Joey
-### - I always seek to learn
-### - Always open to new learning
+### - 🔭 I always seek to learn
+### - 📫 How to reach me joeyalan50@gmail.com
+
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Yoaikun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,6 +17,7 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg">
    </div>
     
   
