@@ -18,8 +18,6 @@
     <img align="center" height="30" width="40" alt="java-icon" src="https://www.svgrepo.com/show/184143/java.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="git-bash-icon" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg">
-    <img align="center" height="30" width="40" alt="mysql-icon" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
    </div>
     
   
@@ -29,9 +27,6 @@
     </a>
     <a href = "https://www.linkedin.com/in/joey-alan-solis">
       <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/@joey-kun-6220/videos">
-      <img width="35" src="youtube.svg">
     </a>
     <a href = "https://www.instagram.com/joeyalan_/">
       <img width="25" src="instagram.png">
