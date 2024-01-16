@@ -1,6 +1,6 @@
 # Hello! I'm Joey
 ### - 🔭 I always seek to learn
-### - 📫 How to reach me joeyalan50@gmail.com
+# - Skills & Experiences
 
 
 <div>
@@ -15,11 +15,11 @@
     <h1 align="center">Languages and Tools<h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://www.svgrepo.com/show/184143/java.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
     
+  ### - 📫 How to reach me joeyalan50@gmail.com
   
   <h1 align="center">Social media</h1>
     <a href = "mailto: joeyalan50@gmail.com">
