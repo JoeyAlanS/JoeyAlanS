@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoaikun&label=Profile%20views&color=0e75b6&style=flat" alt="yoaikun" /> </p>
 
-- 🌱 I’m currently learning **ReactJS|MySQL**
+- 🌱 I’m currently learning **ReactJS | MySQL**
 
 - 📫 How to reach me **joeyalan50@gmail.com**
 
