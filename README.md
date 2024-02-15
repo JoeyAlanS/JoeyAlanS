@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joey Alan</h1>
 <h3 align="center">A passionate about programming from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoaikun&label=Profile%20views&color=0e75b6&style=flat" alt="yoaikun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeyalans&label=Profile%20views&color=0e75b6&style=flat" alt="joeyalans" /> </p>
 
-- 🌱 I’m currently learning **ReactJS | MySQL**
+- 🌱 I’m currently learning **JavaFX | PGSQL**
 
 - 📫 How to reach me **joeyalan50@gmail.com**
 
@@ -14,8 +14,8 @@
 </p>
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Yoaikun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoaikun&layout=compact&langs_count=16&theme=dracula"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=JoeyAlanS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyAlanS&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div  align="center"> 
@@ -27,4 +27,4 @@
 
 
 
-![Snake animation](https://github.com/Yoaikun/Yoaikun/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoeyAlanS/JoeyAlanS/blob/output/github-contribution-grid-snake.svg)
