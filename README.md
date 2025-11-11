@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=joeyalans&label=Profile%20views&color=0e75b6&style=flat" alt="joeyalans" />
 </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **joeyalandev@gmail.com**
 
