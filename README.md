@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **joeyalandev@gmail.com**
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoeyAlanS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
